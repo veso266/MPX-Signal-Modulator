@@ -16,5 +16,5 @@ Run the flowgraph:
   Run it ./st
 4. enable FM Transmitter and FM Output 
 5. in FM Output settings Set left chanel to FM-LR:0 and right to FM-LR:1
-  (Optionaly you can load my FM Preset (comming soon))
+  (Optionaly you can load my FM Preset (Velkaton.sts))
   

@@ -1,0 +1,1 @@
+RTP Generator accepts stereo tool string for generating Radio Text over Network (example: "Now playing \+ArMadonna\- - \+TiLike a Virgin\-" for more details see here: http://forums.stereotool.com/viewtopic.php?f=14&t=5910&p=29085#p29085)
